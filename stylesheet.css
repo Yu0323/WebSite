@@ -65,11 +65,6 @@ li {
 }
 
 /*記事部分*/
-.wrapper {
-  background-color: #26d0c9;
-  color: #fff;
-  height: 100px;
-}
 #news {
   background-image: url(/images/handsign.jpg);
   height: 160px;
