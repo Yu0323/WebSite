@@ -1,7 +1,7 @@
 /*全体のスタイル*/
 body {
   font-family: "Avenir Next";
-  background-color: #26d0c9;
+  background-color: #000000;
 }
 
 /*リストのスタイル*/
@@ -183,14 +183,13 @@ aside {
 
 /*フッター部分*/
 .footer {
-  background-color:#26d0c9;
+  background-color:#000000;
   color: #fff;
   height: 120px;
   padding: 40px;
 　position: absolute;/*←絶対位置*/
 　bottom: 0; /*下に固定*/
 }
-
 
 .footer-logo {
   float: left;
