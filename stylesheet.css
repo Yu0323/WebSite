@@ -142,7 +142,7 @@ aside {
 }
 .area {
   scroll-snap-align: none;
-  height: 50vh;
+  height: 100%;
 }
 
 /*ニュースリスト*/
